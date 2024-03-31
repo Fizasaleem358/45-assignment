@@ -22,6 +22,8 @@ console.log("Multiplication:", 4 * 2);
 // Division  
 console.log("Division:", 16 / 2);
 
+//program-2
+
 // Author: Fiza  saleem
 // Date:  1-april-2022
 

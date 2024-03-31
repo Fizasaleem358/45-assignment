@@ -5,14 +5,15 @@
 // Date:  1-april-2022
 // This program demonstrates addition, subtraction,
 // multiplication, and division operations in TypeScript.
-// Addition operation
+// Addition  
 console.log("Addition:", 5 + 3);
-// Subtraction operation
+// Subtraction  
 console.log("Subtraction:", 10 - 2);
-// Multiplication operation
+// Multiplication  
 console.log("Multiplication:", 4 * 2);
-// Division operation
+// Division  
 console.log("Division:", 16 / 2);
+//program-2
 // Author: Fiza  saleem
 // Date:  1-april-2022
 // This program stores the author's favorite number
