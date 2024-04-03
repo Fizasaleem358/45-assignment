@@ -1,3 +1,8 @@
 #! /usr/bin/env node
-export {};
 // task-20
+let progLan = ["typescript", "python", "javascript", "ruby", "C++"];
+//making list
+progLan.forEach((pro) => {
+    console.log(pro);
+});
+export {};
