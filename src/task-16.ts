@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 // task-16
 
-let dinnerGuestList: string[] = ["hurma", "saba", "iqra", "ayzal"];
+let dinnerGuestList: string[]= ["hurma", "saba", "iqra", "ayzal"]; 
 console.log(dinnerGuestList)
 
 console.log( `we have 3 more friends to invite on dinner`)
